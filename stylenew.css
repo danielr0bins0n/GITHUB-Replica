@@ -1,0 +1,58 @@
+.header {
+    background-color: rgb(1, 32, 1);
+}
+
+.icon {
+    padding: 10px;
+}
+
+h6 {
+    text-align: center;
+    padding   : 20px 40px 20px 0px;
+}
+
+.footer {
+    background-color: #95a495;
+}
+
+.left_box {
+    margin          : 20%;
+    padding         : 60% 20%;
+    background-color: rgb(1, 32, 1);
+    border-radius   : 8px;
+}
+
+.top_right {
+    margin          : 9% 18% 4% 15%;
+    width           : 60%;
+    height          : 45px;
+    color           : gainsboro;
+    padding-top     : 1.5%;
+    padding-left    : 2%;
+    background-color: rgb(1, 32, 1);
+    border-radius   : 8px;
+}
+
+.middle_box {
+    margin          : 5% 5%;
+    width           : 20%;
+    height          : 7em;
+    padding-top     : 1.5%;
+    padding-left    : 2%;
+    background-color: rgb(1, 32, 1);
+    border-radius   : 8px;
+}
+
+.bottom_box {
+    margin          : 5% 5%;
+    width           : 80%;
+    height          : 7em;
+    padding-top     : 1.5%;
+    padding-left    : 2%;
+    background-color: rgb(1, 32, 1);
+    border-radius   : 8px;
+}
+
+.container {
+    height: 200px;
+}
